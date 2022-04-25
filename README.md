@@ -28,6 +28,8 @@ RFN: 003 - O usuário deve ter instalado em seu computador o Python na verção 
 
 Regra de Negócio: 001 - Consulta a tabela FIPE. A consulta a tabela FIPE deve ser feita pelo código oficial do veículo, todo veículo possui um código, gerenciado pela organização que cuida da FIPE. Requisito Funcional - 001
 
+# <h1>Diagrama de Classe</h1>
+![Diagrama](https://user-images.githubusercontent.com/96276519/165191126-bda117f9-bad2-490f-a220-7a4c6bfcbbe7.png)
 
 
 https://parallelum.com.br/fipe/api/v2/cars/brands
